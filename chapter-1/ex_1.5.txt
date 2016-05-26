@@ -1,0 +1,3 @@
+the procedure **p** is a recursive procedure, and the recursion never terminates
+in case normal order evaluation, the recursion does not occur but it occurs in case of 
+applicative order evaluation.
